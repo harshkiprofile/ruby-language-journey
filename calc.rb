@@ -20,7 +20,7 @@ num2 = gets.chomp()
 
 print "Add or substract or divide ? "
 
-input = gets.chomp().downcase 21
+input = gets.chomp().downcase 
 
 
 case
